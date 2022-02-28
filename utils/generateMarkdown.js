@@ -1,6 +1,11 @@
 // // TODO: Create a function that returns a license badge based on which license is passed in
  // If there is no license, return an empty string
- function renderLicenseBadge(license) {}
+ function renderLicenseBadge(license) {
+   if (!license) {
+    console.log("no license wa submitted");
+    return '';
+   }
+ }
 
 // // TODO: Create a function that returns the license link
 // // If there is no license, return an empty string
@@ -52,5 +57,8 @@ function generateMarkdown({title, description, license, installation, usage, con
 
 `;
 }
+
+// module.exports = {generateMarkdown, renderLicenseBadge};
+
 
 module.exports = generateMarkdown;

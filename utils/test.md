@@ -1,4 +1,4 @@
-<!-- this file is usedf to test the readme preview -->
+<!-- this file is used to test the readme preview -->
 `# ${title}
 
   ## Tble of Contents

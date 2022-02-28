@@ -68,6 +68,7 @@ async function init() {
     // console.log(answers);
     // 
     writeToFile('readme2.md', generateMarkdown(answers));
+    // renderLicenseBadge(license);
 };
 
 // Function call to initialize app

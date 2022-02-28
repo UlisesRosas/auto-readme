@@ -50,8 +50,8 @@ function generateMarkdown({title, description, license, installation, usage, con
   ## Tests 
   ${tests}
 
-  ## Aboout
-  - ${github}
+  ## About
+  - [${github}](https://github.com/${github})
   - ${email}
 
 

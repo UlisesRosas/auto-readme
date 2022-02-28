@@ -1,5 +1,4 @@
-<!-- this file is used to test the readme preview -->
-`# ${title}
+# JuicyBurgers
 
   ## Tble of Contents
   - [Description](#Description)
@@ -13,26 +12,25 @@
   
 
   ## Description
-  ${description}
+  This app is made to create the best juiciest burgers
 
   ## License
-  ${license}
+  MIT
 
   ## Installation
-  ${installation}
+  You need a big stomach to download this app
 
   ## usage
-  ${usage}
+  Get ready for the juice
 
   ## Contributing
-  ${contributing}
+  These Buns
 
   ## Tests 
-  ${tests}
+  Comand the buns
 
   ## About
- - [${github}](https://github.com/UlisesRosas)
-  - ${email}
+  - [BurgerBunz](https://github.com/BurgerBunz)
+  - JuicyBurger@bigbunz.com
 
 
-`
